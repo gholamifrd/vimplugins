@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/fardin/python-projects/freebitco-create-accounts/audio'
+let g:netrw_dirhist_2='/home/fardin/.local/lib/python3.7/site-packages/haipproxy/crawler/spiders'
+let g:netrw_dirhist_3='/home/fardin/Desktop/weevely3/utils'
